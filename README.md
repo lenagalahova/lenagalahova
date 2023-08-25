@@ -1,7 +1,8 @@
 [![Header](https://github.com/lenagalahova/lenagalahova/blob/main/Assets/Снимок%20экрана%202020-10-01%20в%2022.09.14.png)](https://vk.com/lenachik)
 
 ## I'm beginer QA Engineer
-![My graduation project at Yandex courses](https://docs.google.com/spreadsheets/d/1AGyb8u8hRFFVTTIio5jrp_ltQe1QKbhIEVFJEZJeFDg/edit#gid=1782311256)
+My graduation project at Yandex courses
+[![My graduation project at Yandex courses](https://github.com/lenagalahova/lenagalahova/blob/main/Assets/68747470733a2f2f7374617469632e74696c646163646e2e636f6d2f74696c64363136322d333236342d343636352d613533302d3337363533343633333733382f6e6f726f6f742e706e67.png)](https://docs.google.com/spreadsheets/d/1AGyb8u8hRFFVTTIio5jrp_ltQe1QKbhIEVFJEZJeFDg/edit#gid=1782311256)
 
 ## Languages and Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
