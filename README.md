@@ -1,4 +1,4 @@
-[![Header](https://github.com/lenagalahova/lenagalahova/blob/main/Assets/Снимок%20экрана%202020-10-01%20в%2022.09.14.png)](https://vk.com/lenachik)
+[![Header](https://github.com/lenagalahova/lenagalahova/blob/main/Assets/2023-08-25%2017.36.45.jpg)](https://vk.com/lenachik)
 
 ## I'm beginer QA Engineer
 My graduation project at Yandex courses
