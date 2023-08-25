@@ -1,5 +1,5 @@
 # lenagalahova
-Header
+[![Header] (https://github.com/lenagalahova/lenagalahova/blob/main/Assets/Снимок%20экрана%202020-10-01%20в%2022.09.14.png)](https://vk.com/lenachik)
 
 About me
 
