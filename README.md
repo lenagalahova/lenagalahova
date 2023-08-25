@@ -1,6 +1,6 @@
 ![Header] (https://github.com/lenagalahova/lenagalahova/blob/main/Assets/ё.jpg)
 
-About me
+## I'm beginer QA Engineer
 
 
 Languages and Tools
